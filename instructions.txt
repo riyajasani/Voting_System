@@ -1,0 +1,5 @@
+Create table in mySQL workbench as follows:
+table_1 -> name : user_data, values : name, ph no, password, type, vote(Y or N)
+define VARCHAR as datatype and set length as per choice
+set primary key
+set default value for type as VOTER (optional, only if possible)
